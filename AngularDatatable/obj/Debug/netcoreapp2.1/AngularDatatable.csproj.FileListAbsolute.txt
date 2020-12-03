@@ -12,3 +12,20 @@ C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug
 C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.dll
 C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.pdb
 C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.csprojAssemblyReference.cache
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\bin\Debug\netcoreapp2.1\appsettings.json
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\bin\Debug\netcoreapp2.1\AngularDatatable.deps.json
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\bin\Debug\netcoreapp2.1\AngularDatatable.runtimeconfig.json
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\bin\Debug\netcoreapp2.1\AngularDatatable.runtimeconfig.dev.json
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\bin\Debug\netcoreapp2.1\AngularDatatable.dll
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\bin\Debug\netcoreapp2.1\AngularDatatable.pdb
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.csprojAssemblyReference.cache
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.AssemblyInfoInputs.cache
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.AssemblyInfo.cs
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.csproj.CoreCompileInputs.cache
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.RazorAssemblyInfo.cache
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.RazorAssemblyInfo.cs
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.RazorTargetAssemblyInfo.cache
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.dll
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.pdb
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.genruntimeconfig.cache

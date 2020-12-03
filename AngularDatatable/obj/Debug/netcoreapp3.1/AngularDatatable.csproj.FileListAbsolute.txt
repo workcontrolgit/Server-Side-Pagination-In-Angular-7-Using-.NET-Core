@@ -1,0 +1,5 @@
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp3.1\AngularDatatable.csprojAssemblyReference.cache
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp3.1\AngularDatatable.AssemblyInfoInputs.cache
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp3.1\AngularDatatable.AssemblyInfo.cs
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp3.1\AngularDatatable.csproj.CoreCompileInputs.cache
+C:\apps\Server-Side-Pagination-In-Angular-NET-Core\AngularDatatable\obj\Debug\netcoreapp3.1\AngularDatatable.MvcApplicationPartsAssemblyInfo.cache

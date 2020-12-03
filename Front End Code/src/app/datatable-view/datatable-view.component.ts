@@ -21,7 +21,7 @@ export class DatatableViewComponent implements OnInit {
   dtOptions: DataTables.Settings = {};
   dtTrigger: Subject<any> = new Subject();
 
-  @ViewChild(DataTableDirective)
+  @ViewChild(DataTableDirective, { static: true })
   dtElement: DataTableDirective;
 
   timerSubscription: Subscription;
